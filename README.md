@@ -1,5 +1,5 @@
 - 👋 Hola, soy @OmarFloresPTY
-- 👀 Estoy intersado en aprender programación, inteligencia artifial, robótica y Github.
+- 👀 Estoy intersado en aprender programación, inteligencia artificial, robótica y Github.
 - 🌱 Actualmente estoy estudiando el mundo de Python por su variadas aplicaciones, aunque no descarto aprender Desarrollo Web.
 - 💞️ Busco colaborar con otros programadores interesados en cambiar vidas con el uso de python y visión artificial.
 - 📫 me pueden contactar por medio de mi correo personal oafo2699@gmail.com
