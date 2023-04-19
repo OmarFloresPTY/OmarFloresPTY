@@ -1,10 +1,19 @@
-- 👋 Hola, soy @OmarFloresPTY
-- 👀 Estoy intersado en aprender programación, inteligencia artificial, robótica y Github.
-- 🌱 Actualmente estoy estudiando el mundo de Python por su variadas aplicaciones, aunque no descarto aprender Desarrollo Web.
-- 💞️ Busco colaborar con otros programadores interesados en cambiar vidas con el uso de python y visión artificial.
-- 📫 me pueden contactar por medio de mi correo personal oafo2699@gmail.com
+### ¡Hola! en mi país se dice ¡Que Xopa! mi nombre es Omar Flores👋
 
-<!---
-OmarFloresPTY/OmarFloresPTY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Soy estudiante de Lic. en Ingeniería de Sistemas y Computación en la Universidad Tecnológica de Panamá
+
+- 🌱 Actualmente estoy aprendiendo Python, utilizo plataformas como Udemy, Platzi, Libros y Youtube para aprender.
+- 👯 Me siento motivado y con disponibilidad para trabajar de manera remota en proyecto de código abierto.
+
+## Me pueden contactar:
+
+[<img
+  aling="left"
+  src="https://img.icons8.com/color/96/000000/linkedin.png"
+  alt="LinkedIn"
+  width="22"
+/>](https://www.linkedin.com/in/omar-flores-2701b3190/)
+
+---
+[![Mi Estadística de Github](https://github-readme-stats.vercel.app/api?username=OmarFloresPTY&show_icons=true&theme=radical&count_private=true)](https://github.com/OmarFloresPTY)
+[![Top Lenguajes usados](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarFloresPTY&layout=compact&theme=radical)](https://github.com/OmarFloresPTY)
