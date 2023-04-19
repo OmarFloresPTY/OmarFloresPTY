@@ -1,6 +1,4 @@
-### ¡Hola! en mi país se dice ¡Que Xopa! mi nombre es Omar Flores👋
-
-## Soy estudiante de Lic. en Ingeniería de Sistemas y Computación en la Universidad Tecnológica de Panamá
+## ¡Hola! en mi país se dice ¡Que Xopa! mi nombre es Omar Flores👋
 ```python
 class EsteSoyYo:
   def __init__(self):
